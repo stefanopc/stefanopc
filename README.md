@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanopc
-- 👀 I’m interested in Artificial Intelligence and currently enrolled in a MSc in AI @unibo
-- 🌱 I’m currently working on my AI projects
+- 👀 I've graduated in Artificial Intelligence at @unibo 
+- 🌱 I’m currently working on AI projects
 
 <!--- [![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanopc)](https://github.com/anuraghazra/github-readme-stats) --->
 
