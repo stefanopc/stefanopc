@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Stefano!
 - 🎓 I graduated in Artificial Intelligence at the University of Bologna
-- 👨🏻‍💻 I’m currently working in the field of Generative AI
+- 👨🏻‍💻 I’m currently working on Generative AI projects
 <!--- [![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanopc)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <!---
